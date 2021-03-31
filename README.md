@@ -1,1 +1,3 @@
-**Useless barely-there 'Weather Dashboard' 
+Useless non-functioning 'Weather Dashboard' 
+
+![screenshot](screenshot.png)
